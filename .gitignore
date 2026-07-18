@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# But don't ignore directories, so git can look inside them
+!*/
+
+# Don't ignore documentation folder and its contents
+!documentation/**
+
+# Don't ignore README.md and .gitignore itself
+!README.md
+!.gitignore
