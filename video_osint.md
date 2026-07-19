@@ -13,6 +13,6 @@ Identify the location and date of the event depicted in the video matching a giv
 3. **OSINT Investigation**:
    A search for this iconic photograph shows it was taken at **Camp Bostick** (in the Naray/Nari district of Kunar Province, Afghanistan) on **April 16, 2009**.
 
-## Flags
+## Flags (but not working)
 - `athena{Camp Bostick_2009-04-16}`
 - `athena{Naray_2009-04-16}`
