@@ -24,7 +24,7 @@ A 64-bit ELF executable `chronolock` that derives a decryption key by running a 
   - We wrote a Python script to extract these raw bytes, apply the XOR and stack mapping logic, and print the flag.
 
 ## Verification & Flag
-Running the Python solve script `solve.py` yields the reconstructed flag:
+Running the Python script yields the reconstructed flag:
 ```bash
 $ python solve.py
 eax = 0x5a
